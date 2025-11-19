@@ -8,3 +8,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 2: LC 182 - Duplicate Emails](./SQL/182_Duplicate_emails.sql)
 - [Day 3: LC 183. Customers Who Never Order](./SQL/183_customers_who_never_order.sql)
 - [Day 4: LC 196. Delete Duplicate Emails](./SQL/196_delete_duplicate_emails.sql)
+- [Day 5: LC 197. Rising Temperature](./SQL/197_rising_temperature.sql)
