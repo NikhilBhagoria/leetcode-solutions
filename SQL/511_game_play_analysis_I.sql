@@ -1,0 +1,38 @@
+-- LeetCode 511. Game Play Analysis I
+-- Difficulty: Easy
+-- Goal:
+-- Find each player's first login date.
+-- Table: Activity
+-- +-----------+-----------+------------+--------------+
+-- | player_id | device_id | event_date | games_played |
+-- +-----------+-----------+------------+--------------+
+-- | 1         | 2         | 2016-03-01 | 5            |
+-- | 1         | 2         | 2016-05-02 | 6            |
+-- | 2         | 3         | 2017-06-25 | 1            |
+-- | 3         | 1         | 2016-03-02 | 0            |
+-- | 3         | 4         | 2018-07-03 | 5            |
+-- +-----------+-----------+------------+--------------+
+-- Output: 
+-- +-----------+-------------+
+-- | player_id | first_login |
+-- +-----------+-------------+
+-- | 1         | 2016-03-01  |
+-- | 2         | 2017-06-25  |
+-- | 3         | 2016-03-02  |
+-- +-----------+-------------+
+-- Note: The Activity table has the following schema:
+-- CREATE TABLE Activity (
+--   player_id INT,
+--   device_id INT,
+--   event_date DATE,
+--   games_played INT
+-- );
+-- player_id is the id of the player.
+-- device_id is the id of the device.
+-- event_date is the date when the player played games.
+-- games_played is the number of games played by the player on that date.
+SELECT player_id, MIN(event_date) AS first_login
+FROM Activity
+GROUP BY player_id;
+-- This query returns the earliest event_date for each player,
+-- giving the date of their first login.
