@@ -1,0 +1,47 @@
+-- LeetCode 577. Employee Bonus
+-- Difficulty: Easy
+-- Goal:
+-- Show all employees with a bonus less than 1000 OR no bonus at all.
+-- Output: name, bonus
+-- Table: Employee
+-- +-------+--------+------------+--------+
+-- | empId | name   | supervisor | salary |
+-- +-------+--------+------------+--------+
+-- | 3     | Brad   | null       | 4000   |
+-- | 1     | John   | 3          | 1000   |
+-- | 2     | Dan    | 3          | 2000   |
+-- | 4     | Thomas | 3          | 4000   |
+-- +-------+--------+------------+--------+
+-- Table: Bonus
+-- +-------+-------+
+-- | empId | bonus |
+-- +-------+-------+
+-- | 2     | 500   |
+-- | 4     | 2000  |
+-- +-------+-------+
+-- Note: The Employee table has the following schema:
+-- CREATE TABLE Employee (
+--   empId INT,
+--   name VARCHAR(100),
+--   supervisor INT,
+--   salary INT
+-- );
+-- empId is the id of the employee.
+-- name is the name of the employee.
+-- supervisor is the id of the employee's supervisor.
+-- salary is the salary of the employee.
+-- Note: The Bonus table has the following schema:
+-- CREATE TABLE Bonus (
+--   empId INT,
+--   bonus INT
+-- );
+-- empId is the id of the employee.
+-- bonus is the bonus of the employee.
+SELECT e.name, b.bonus
+FROM Employee e
+LEFT JOIN Bonus b ON e.empId = b.empId
+WHERE b.bonus < 1000 OR b.bonus IS NULL;
+-- This query performs a LEFT JOIN between the Employee and Bonus tables
+-- to include all employees, even those without a bonus.
+-- It then filters the results to show only those employees
+-- whose bonus is less than 1000 or who have no bonus at all.
