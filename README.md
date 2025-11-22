@@ -11,3 +11,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 5: LC 197 - Rising Temperature](./SQL/197_rising_temperature.sql)
 - [Day 6: LC 511 - Game Play Analysis I](./SQL/511_game_play_analysis_I.sql)
 - [Day 7: LC 577 - Employee Bonus](./SQL/577_employee_bonus.sql)
+- [Day 8: LC 584 - Find Customer Referee](./SQL/584_find_customer_referee.sql)
