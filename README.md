@@ -12,3 +12,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 6: LC 511 - Game Play Analysis I](./SQL/511_game_play_analysis_I.sql)
 - [Day 7: LC 577 - Employee Bonus](./SQL/577_employee_bonus.sql)
 - [Day 8: LC 584 - Find Customer Referee](./SQL/584_find_customer_referee.sql)
+- [Day 9: LC 586 - Customer Placing the Largest Number of Orders](./SQL/586_customer_placing_the_largest_number_of_orders.sql)
