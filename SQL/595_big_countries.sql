@@ -1,0 +1,38 @@
+-- LeetCode 595. Big Countries
+-- Difficulty: Easy
+-- Goal:
+-- Find all the countries with a population greater than 250 million or an area greater than 3 million square km.
+-- Table: World
+-- +-------------+-----------+---------+------------+--------------+
+-- | name        | continent | area    | population | gdp          |
+-- +-------------+-----------+---------+------------+--------------+
+-- | Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
+-- | Albania     | Europe    | 28748   | 2831741    | 12960000000  |
+-- | Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
+-- | Andorra     | Europe    | 468     | 78115      | 3712000000   |
+-- | Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
+-- +-------------+-----------+---------+------------+--------------+
+-- The World table has the following schema:
+-- CREATE TABLE World (
+--   name VARCHAR,
+--   continent VARCHAR,
+--   area INT,
+--   population INT,
+--   gdp BIGINT
+-- );
+SELECT name
+FROM World
+WHERE population >= 250000000 OR area >= 3000000;
+-- This query selects the names of countries from the World table
+-- where the population is greater than or equal to 250 million
+-- or the area is greater than or equal to 3 million square km.
+-- It uses a WHERE clause to filter the records based on the specified conditions.
+-- The result will include all countries that meet either of the criteria.
+-- The output will be a list of country names that are considered "big" based on the given population and area thresholds.
+-- Example output:
+-- +-------------+------------+---------+
+-- | name        | population | area    |
+-- +-------------+------------+---------+
+-- | Afghanistan | 25500100   | 652230  |
+-- | Algeria     | 37100000   | 2381741 |
+-- +-------------+------------+---------+
