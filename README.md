@@ -14,3 +14,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 8: LC 584 - Find Customer Referee](./SQL/584_find_customer_referee.sql)
 - [Day 9: LC 586 - Customer Placing the Largest Number of Orders](./SQL/586_customer_placing_the_largest_number_of_orders.sql)
 - [Day 10: LC 595 - Big Countries](./SQL/595_big_countries.sql)
+- [Day 11: LC 596 - Classes With at Least 5 Students](./SQL/596_classes_with_at_least_5_students.sql)
