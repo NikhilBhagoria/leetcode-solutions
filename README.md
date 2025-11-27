@@ -16,3 +16,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 10: LC 595 - Big Countries](./SQL/595_big_countries.sql)
 - [Day 11: LC 596 - Classes With at Least 5 Students](./SQL/596_classes_with_at_least_5_students.sql)
 - [Day 12: LC 607 - Sales Person](./SQL/607_sales_person.sql)
+- [Day 13: LC 176 - Second Highest Salary](./SQL/176_second_highest_salary.sql)
