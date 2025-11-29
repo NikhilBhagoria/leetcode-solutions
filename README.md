@@ -18,3 +18,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 12: LC 607 - Sales Person](./SQL/607_sales_person.sql)
 - [Day 13: LC 176 - Second Highest Salary](./SQL/176_second_highest_salary.sql)
 - [Day 14: LC 177 - Nth Highest Salary](./SQL/177_nth_highest_salary.sql)
+- [Day 15: LC 178. Rank Scores](./SQL/178_rank_scores.sql)
