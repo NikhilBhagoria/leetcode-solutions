@@ -22,3 +22,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 16: LC 610 - Triangle Judgement](./SQL/610_triangle_judgement.sql)
 - [Day 17: LC 619 - Biggest Single Number](./SQL/619_biggest_single_number.sql)
 - [Day 18: LC 620 - Not Boring Movies](./SQL/620_not_boring_movies.sql)
+- [Day 19: LC 627 - Swap Sex of Employees](./SQL/627_swap_sex_of_employees.sql)
