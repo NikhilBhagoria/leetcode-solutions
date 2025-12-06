@@ -25,3 +25,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 19: LC 627 - Swap Sex of Employees](./SQL/627_swap_sex_of_employees.sql)
 - [Day 20: LC 1050 - Actors and Directors Who Cooperated At Least Three Times](./SQL/1050_actors_and_directors_who_cooperated_at_least_three_times.sql)
 - [Day 21: LC 1068 - Product Sales Analysis I](./SQL/1068_product_sales_analysis_I.sql)
+- [Day 22: LC 1075. Project Employees I](./SQL/1075_project_employees_I.sql)
