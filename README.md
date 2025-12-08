@@ -27,3 +27,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 21: LC 1068 - Product Sales Analysis I](./SQL/1068_product_sales_analysis_I.sql)
 - [Day 22: LC 1075 - Project Employees I](./SQL/1075_project_employees_I.sql)
 - [Day 23: LC 1084 - Sales Analysis III](./SQL/1084_sales_analysis_III.sql)
+- [Day 24: LC 1141 - User Activity for the Past 30 Days I](./SQL/1141_user_activity_for_the_past_30_days_I.sql)
