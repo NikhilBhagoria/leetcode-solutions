@@ -29,3 +29,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 23: LC 1084 - Sales Analysis III](./SQL/1084_sales_analysis_III.sql)
 - [Day 24: LC 1141 - User Activity for the Past 30 Days I](./SQL/1141_user_activity_for_the_past_30_days_I.sql)
 - [Day 25: LC 1148 - Article Views I](./SQL/1148_article_views_I.sql)
+- [Day 26: LC 1179 - Reformat Department Table](./SQL/1179_reformat_department_table.sql)
