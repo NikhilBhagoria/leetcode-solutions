@@ -4,9 +4,15 @@
 -- The query calculates the quality score and percentage of poor queries for each query_name.
 -- Table: Queries
 -- +-------------+----------+--------+-------+
--- | query_name  | result   | position| rating |
+-- | query_name  | result   |position| rating|
 -- +-------------+----------+--------+-------+
--- | Dog         | success  | 1      | 5     |ss  | 3      | 2     |
+-- | Dog         | success  | 1      | 5     |
+-- | Dog         | success  | 2      | 3     |
+-- | Dog         | success  | 3      | 4     |
+-- | Cat         | failure  | 1      | 1     |
+-- | Cat         | success  | 1      | 5     |
+-- | Cat         | success  | 2      | 3     |
+-- | Cat         | success  | 3      | 2     |
 -- +-------------+----------+--------+-------+
 --
 -- The result should be:
@@ -33,12 +39,6 @@
 --   query_name VARCHAR(30),
 --   result VARCHAR(50),
 --   position INT,
--- | Dog         | success  | 2      | 3     |
--- | Dog         | success  | 3      | 4     |
--- | Cat         | failure  | 1      | 1     |
--- | Cat         | success  | 1      | 5     |
--- | Cat         | success  | 2      | 3     |
--- | Cat         | succe
 --   rating INT
 -- );
 
