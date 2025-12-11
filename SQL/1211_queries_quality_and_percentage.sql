@@ -23,10 +23,10 @@
 -- +------------+---------+-----------------------+
 --
 -- Explanation:
--- For "Dog": quality = (5/1 + 3/2 + 4/3) / 3 = 4.00
---            poor queries (rating < 3) = 0, percentage = 0 / 3 * 100 = 0.00
--- For "Cat": quality = (1/1 + 5/1 + 3/2 + 2/3) / 4 = 2.50
---            poor queries (rating < 3) = 1, percentage = 1 / 4 * 100 = 25.00
+-- For "Dog": quality = ((5 / 1) + (5 / 2) + (1 / 200)) / 3 = 2.50
+--            poor_ query_percentage is (1 / 3) * 100 = 33.33
+-- For "Cat": quality = ((2 / 5) + (3 / 3) + (4 / 7)) / 3 = 0.66
+--            poor_ query_percentage is (1 / 3) * 100 = 33.33
 --
 -- The subquery calculates:
 -- 1. quality = rating / position (quality score for each query)
