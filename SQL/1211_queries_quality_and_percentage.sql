@@ -3,25 +3,24 @@
 
 -- The query calculates the quality score and percentage of poor queries for each query_name.
 -- Table: Queries
--- +-------------+----------+--------+-------+
--- | query_name  | result   |position| rating|
--- +-------------+----------+--------+-------+
--- | Dog         | success  | 1      | 5     |
--- | Dog         | success  | 2      | 3     |
--- | Dog         | success  | 3      | 4     |
--- | Cat         | failure  | 1      | 1     |
--- | Cat         | success  | 1      | 5     |
--- | Cat         | success  | 2      | 3     |
--- | Cat         | success  | 3      | 2     |
--- +-------------+----------+--------+-------+
+-- +------------+-------------------+----------+--------+
+-- | query_name | result            | position | rating |
+-- +------------+-------------------+----------+--------+
+-- | Dog        | Golden Retriever  | 1        | 5      |
+-- | Dog        | German Shepherd   | 2        | 5      |
+-- | Dog        | Mule              | 200      | 1      |
+-- | Cat        | Shirazi           | 5        | 2      |
+-- | Cat        | Siamese           | 3        | 3      |
+-- | Cat        | Sphynx            | 7        | 4      |
+-- +------------+-------------------+----------+--------+
 --
 -- The result should be:
--- +----------+----------+----------+
--- | query_name| quality  | poor_query_percentage |
--- +----------+----------+----------+
--- | Dog      | 4.00     | 0.00     |
--- | Cat      | 2.50     | 25.00    |
--- +----------+----------+----------+
+-- +------------+---------+-----------------------+
+-- | query_name | quality | poor_query_percentage |
+-- +------------+---------+-----------------------+
+-- | Dog        | 2.50    | 33.33                 |
+-- | Cat        | 0.66    | 33.33                 |
+-- +------------+---------+-----------------------+
 --
 -- Explanation:
 -- For "Dog": quality = (5/1 + 3/2 + 4/3) / 3 = 4.00
@@ -36,19 +35,19 @@
 --
 -- Note: The Queries table has the following schema:
 -- CREATE TABLE Queries (
---   query_name VARCHAR(30),
---   result VARCHAR(50),
+--   query_name VARCHAR,
+--   result VARCHAR,
 --   position INT,
 --   rating INT
 -- );
 
-SELECT query_name,
-       ROUND(SUM(quality) / COUNT(*), 2) AS quality,
-       ROUND(SUM(is_poor) * 100 / COUNT(*), 2) AS poor_query_percentage
+SELECT query_name, 
+    ROUND(SUM(quality) / COUNT(*), 2) AS quality, 
+    ROUND(SUM(is_poor) * 100 / COUNT(*), 2) AS poor_query_percentage
 FROM (
-    SELECT query_name,
-           rating / position AS quality,
-           CASE WHEN rating < 3 THEN 1 ELSE 0 END AS is_poor
+    SELECT query_name, 
+        rating / position AS quality, 
+        CASE WHEN rating < 3 THEN 1 ELSE 0 END AS is_poor
     FROM Queries
 ) AS new
 GROUP BY query_name;
