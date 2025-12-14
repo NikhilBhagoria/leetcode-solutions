@@ -33,3 +33,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 27: LC 1211 - Queries Quality and Percentage](./SQL/1211_queries_quality_and_percentage.sql)
 - [Day 28: LC 1251 - Average Selling Price](./SQL/1251_average_selling_price.sql)
 - [Day 29: LC 1280 - Students and Examinations](./SQL/1280_students_and_examinations.sql)
+- [Day 30: LC 1327 - List the Products Ordered in a Period](./SQL/1327_list_the_products_ordered_in_a_period.sql)
