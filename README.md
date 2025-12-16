@@ -35,3 +35,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 29: LC 1280 - Students and Examinations](./SQL/1280_students_and_examinations.sql)
 - [Day 30: LC 1327 - List the Products Ordered in a Period](./SQL/1327_list_the_products_ordered_in_a_period.sql)
 - [Day 31: LC 1378 - Replace Employee ID With The Unique Identifier](./SQL/1378_replace_employee_ID_with_the_unique_identifier.sql)
+- [Day 32: LC 1407 - Top Travellers](./SQL/1407_top_travellers.sql)
