@@ -37,3 +37,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 31: LC 1378 - Replace Employee ID With The Unique Identifier](./SQL/1378_replace_employee_ID_with_the_unique_identifier.sql)
 - [Day 32: LC 1407 - Top Travellers](./SQL/1407_top_travellers.sql)
 - [Day 33: LC 1484 - Group Sold Products By The Date](./SQL/1484_group_sold_products_by_the_date.sql)
+- [Day 34: LC 1517 - Find Users With Valid E-Mails](./SQL/1517_find_users_with_valid_e-Mails.sql)
