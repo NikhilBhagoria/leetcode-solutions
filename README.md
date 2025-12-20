@@ -39,3 +39,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 33: LC 1484 - Group Sold Products By The Date](./SQL/1484_group_sold_products_by_the_date.sql)
 - [Day 34: LC 1517 - Find Users With Valid E-Mails](./SQL/1517_find_users_with_valid_e-Mails.sql)
 - [Day 35: LC 1527 - Patients With a Condition](./SQL/1527_patients_with_a_condition.sql)
+- [Day 36: LC 1581 - Customer Who Visited but Did Not Make Any Transactions](./SQL/1581_customer_who_visited_but_did_not_make_any_transactions.sql)
