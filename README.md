@@ -44,3 +44,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 38: LC 1661 - Average Time of Process per Machine](./SQL/1661_average_time_of_process_per_machine.sql)
 - [Day 39: LC 1667 - Fix Names in a Table ](./SQL/1667_fix_names_in_a_table.sql)
 - [Day 40: LC 1683 - Invalid Tweets](./SQL/1683_invalid_tweets.sql)
+- [Day 41: LC 1693 - Daily Leads and Partners](./SQL/1693_daily_leads_and_partners.sql)
