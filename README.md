@@ -45,3 +45,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 39: LC 1667 - Fix Names in a Table ](./SQL/1667_fix_names_in_a_table.sql)
 - [Day 40: LC 1683 - Invalid Tweets](./SQL/1683_invalid_tweets.sql)
 - [Day 41: LC 1693 - Daily Leads and Partners](./SQL/1693_daily_leads_and_partners.sql)
+- [Day 42: LC 1729 - Find Followers Count](./SQL/1729_find_followers_count.sql)
