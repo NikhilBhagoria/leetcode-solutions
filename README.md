@@ -47,3 +47,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 41: LC 1693 - Daily Leads and Partners](./SQL/1693_daily_leads_and_partners.sql)
 - [Day 42: LC 1729 - Find Followers Count](./SQL/1729_find_followers_count.sql)
 - [Day 43: LC 1731 - The Number of Employees Which Report to Each Employee](./SQL/1731_the_number_of_employees_which_report_to_each_employee.sql)
+- [Day 44: LC 1741 - Find Total Time Spent by Each Employee](./SQL/1741_find_total_time_spent_by_each_employee.sql)
