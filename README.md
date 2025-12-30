@@ -49,3 +49,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 43: LC 1731 - The Number of Employees Which Report to Each Employee](./SQL/1731_the_number_of_employees_which_report_to_each_employee.sql)
 - [Day 44: LC 1741 - Find Total Time Spent by Each Employee](./SQL/1741_find_total_time_spent_by_each_employee.sql)
 - [Day 45: LC 1757 - Recyclable and Low Fat Products](./SQL/1757_recyclable_and_low_fat_products.sql)
+- [Day 46: LC 1789 - Primary Department for Each Employee](./SQL/1789_primary_department_for_each_employee.sql)
