@@ -51,3 +51,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 45: LC 1757 - Recyclable and Low Fat Products](./SQL/1757_recyclable_and_low_fat_products.sql)
 - [Day 46: LC 1789 - Primary Department for Each Employee](./SQL/1789_primary_department_for_each_employee.sql)
 - [Day 47: LC 1795 - Rearrange Products Table](./SQL/1795_rearrange_products_table.sql)
+- [Day 48: LC 1873 - Calculate Special Bonus](./SQL/1873_calculate_special_bonus.sql)
