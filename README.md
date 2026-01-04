@@ -54,3 +54,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 48: LC 1873 - Calculate Special Bonus](./SQL/1873_calculate_special_bonus.sql)
 - [Day 49: LC 1890 - The Latest Login in 2020](./SQL/1890_the_latest_login_in_2020.sql)
 - [Day 50: LC 1965 - Employees With Missing Information](./SQL/1965_employees_with_missing_information.sql)
+- [Day 51: LC 1978 - Employees Whose Manager Left the Company ](./SQL/1978_employees_whose_manager_left_the_company.sql)
