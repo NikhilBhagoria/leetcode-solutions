@@ -56,3 +56,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 50: LC 1965 - Employees With Missing Information](./SQL/1965_employees_with_missing_information.sql)
 - [Day 51: LC 1978 - Employees Whose Manager Left the Company](./SQL/1978_employees_whose_manager_left_the_company.sql)
 - [Day 52: LC 2356 - Number of Unique Subjects Taught by Each Teacher](./SQL/2356_number_of_unique_subjects_taught_by_each_teacher.sql)
+- [Day 53: LC 3436 - Find Valid Emails](./SQL/3436_find_valid_emails.sql)
