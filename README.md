@@ -58,3 +58,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 52: LC 2356 - Number of Unique Subjects Taught by Each Teacher](./SQL/2356_number_of_unique_subjects_taught_by_each_teacher.sql)
 - [Day 53: LC 3436 - Find Valid Emails](./SQL/3436_find_valid_emails.sql)
 - [Day 54: LC 3465 - Find Products with Valid Serial Numbers](./SQL/3465_find_products_with_valid_serial_numbers.sql)
+- [Day 55: LC 3570 - Find Books with No Available Copies](./SQL/3570_find_books_with_no_available_copies.sql)
