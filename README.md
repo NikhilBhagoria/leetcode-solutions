@@ -60,3 +60,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 54: LC 3465 - Find Products with Valid Serial Numbers](./SQL/3465_find_products_with_valid_serial_numbers.sql)
 - [Day 55: LC 3570 - Find Books with No Available Copies](./SQL/3570_find_books_with_no_available_copies.sql)
 - [Day 56: LC 3642 - Find Books with Polarized Opinions](./SQL/3642_find_books_with_polarized_opinions.sql)
+- [Day 57: LC 3793 - Find Users with High Token Usage](./SQL/3793_find_users_with_high_token_usage.sql)
