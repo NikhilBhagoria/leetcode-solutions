@@ -63,3 +63,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 57: LC 3793 - Find Users with High Token Usage](./SQL/3793_find_users_with_high_token_usage.sql)
 - [Day 58: LC 1633 - Percentage of Users Attended a Contest](./SQL/1633_percentage_of_users_attended_a_contest.sql)
 - [Day 59: LC 184 – Department Highest Salary](./SQL/184_department_highest_salary.sql)
+- [Day 60: LC 550 – Game Play Analysis IV](./SQL/550_Game_Play_Analysis_IV.sql)
