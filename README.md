@@ -64,3 +64,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 58: LC 1633 - Percentage of Users Attended a Contest](./SQL/1633_percentage_of_users_attended_a_contest.sql)
 - [Day 59: LC 184 – Department Highest Salary](./SQL/184_department_highest_salary.sql)
 - [Day 60: LC 550 – Game Play Analysis IV](./SQL/550_Game_Play_Analysis_IV.sql)
+- [Day 61: LC 601 - Human Traffic of Stadium](./SQL/601_Human_Traffic_of_Stadium.sql)
