@@ -68,3 +68,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 62: LC 602 - Friend Requests II: Who Has the Most Friends](./SQL/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql)
 - [Day 63: LC 180 - Consecutive Numbers](./SQL/180_Consecutive_Numbers.sql)
 - [Day 64: LC 262 - Trips and Users](./SQL/262_Trips_and_Users.sql)
+- [Day 65: LC 570 - Managers with at Least 5 Direct Reports](./SQL/570_Managers_with_at_Least_5_Direct_Reports.sql)
