@@ -70,3 +70,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 64: LC 262 - Trips and Users](./SQL/262_Trips_and_Users.sql)
 - [Day 65: LC 570 - Managers with at Least 5 Direct Reports](./SQL/570_Managers_with_at_Least_5_Direct_Reports.sql)
 - [Day 66: LC 585 – Investments in 2016](./SQL/585_Investments_in_2016.sql)
+- [Day 67: LC 608 - Tree Node](./SQL/608_Tree_Node.sql)
