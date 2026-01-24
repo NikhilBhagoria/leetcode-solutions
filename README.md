@@ -74,3 +74,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 68: LC 626 - Exchange Seats](./SQL/626_Exchange_Seats.sql)
 - [Day 69: LC 1045 – Customers Who Bought All Products](./SQL/1045_Customers_Who_Bought_All_Products.sql)
 - [Day 70: LC 1070 - Product Sales Analysis III](./SQL/1070_Product_Sales_Analysis_III.sql)
+- [Day 71: LC 1158 - Market Analysis I](./SQL/1158_Market_Analysis_I.sql)
