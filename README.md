@@ -78,3 +78,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 72: LC 1164 - Product Price at a Given Date](./SQL/1164_Product_Price_at_a_Given_Date.sql)
 - [Day 73: LC 1174 - Immediate Food Delivery II](./SQL/1174_Immediate_Food_Delivery_II.sql)
 - [Day 74: LC 1193 - Monthly Transactions I](./SQL/1193_Monthly_Transactions_I.sql)
+- [Day 75: LC 1204 - Last Person to Fit in the Bus](./SQL/1204_Last_Person_to_Fit_in_the_Bus.sql)
