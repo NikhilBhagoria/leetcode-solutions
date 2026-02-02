@@ -83,3 +83,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 77: LC 1341 - Movie Rating](./SQL/1341_movie_rating.sql)
 - [Day 78: LC 1393 -  Capital Gain/Loss](./SQL/1393_Capital_Gain_Loss.sql)
 - [Day 79: LC 1907 - Count Salary Categories](./SQL/1907_Count_Salary_Categories.sql)
+- [Day 80: LC 185 - Department Top Three Salaries](./SQL/185_Department_Top_Three_Salaries.sql)
