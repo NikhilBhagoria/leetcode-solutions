@@ -85,3 +85,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 79: LC 1907 - Count Salary Categories](./SQL/1907_Count_Salary_Categories.sql)
 - [Day 80: LC 185 - Department Top Three Salaries](./SQL/185_Department_Top_Three_Salaries.sql)
 - [Day 81: LC 1934 - Confirmation Rate](./SQL/1934_Confirmation_Rate.sql)
+- [Day 82: LC 3220 - Odd and Even Transactions](./SQL/3220_odd_and_even_transactions.sql)
