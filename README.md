@@ -89,3 +89,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 83: LC 3421 - Find Students Who Improved](./SQL/3421_Find_Students_Who_Improved.sql)
 - [Day 84: LC 3475 - DNA Pattern Recognition](./SQL/3475_DNA_Pattern_Recognition.sql)
 - [Day 85: LC 3497 - Analyze Subscription Conversion](./SQL/3497_Analyze_Subscription_Conversion.sql)
+- [Day 86: LC 3521 - Find Product Recommendation Pairs](./SQL/3521_find_product_recommendation_pairs.sql)
