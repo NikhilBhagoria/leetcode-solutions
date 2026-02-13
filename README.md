@@ -91,3 +91,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 85: LC 3497 - Analyze Subscription Conversion](./SQL/3497_Analyze_Subscription_Conversion.sql)
 - [Day 86: LC 3521 - Find Product Recommendation Pairs](./SQL/3521_find_product_recommendation_pairs.sql)
 - [Day 87: LC 3564 - Seasonal Sales Analysis](./SQL/3564_seasonal_sales_analysis.sql)
+- [Day 88: LC 3580 - Find Consistently Improving Employees](./SQL/3580_Find_Consistently_Improving_Employees.sql)
