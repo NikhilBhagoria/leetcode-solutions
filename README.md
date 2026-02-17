@@ -95,3 +95,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 89: LC 3586 - Find COVID Recovery Patients](./SQL/3586_Find_COVID_Recovery_Patients.sql)
 - [Day 90: LC 3601 - Find Drivers with Improved Fuel Efficiency](./SQL/3601_Find_Drivers_with_Improved_Fuel_Efficiency.sql)
 - [Day 91: LC 3611 - Find Overbooked Employees](./SQL/3611_Find_Overbooked_Employees.sql)
+- [Day 92: LC 3374 - First Letter Capitalization II](./SQL/3374_First_Letter_Capitalization_II.sql)
