@@ -97,3 +97,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 91: LC 3611 - Find Overbooked Employees](./SQL/3611_Find_Overbooked_Employees.sql)
 - [Day 92: LC 3374 - First Letter Capitalization II](./SQL/3374_First_Letter_Capitalization_II.sql)
 - [Day 93: LC 3626 - Find Stores with Inventory Imbalance](./SQL/3626_Find_Stores_with_Inventory_Imbalance.sql)
+- [Day 94: LC 3657 - Find Loyal Customers](./SQL/3657_Find_Loyal_Customers.sql)
