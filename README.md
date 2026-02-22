@@ -100,3 +100,4 @@ I solve **1 problem every day** to stay consistent and improve problem-solving s
 - [Day 94: LC 3657 - Find Loyal Customers](./SQL/3657_Find_Loyal_Customers.sql)
 - [Day 95: LC 3705 - Find Golden Hour Customers](./SQL/3705_find_golden_hour_customers.sql)
 - [Day 96: LC 3716 - Find Churn Risk Customers](./SQL/3716_Find_Churn_Risk_Customers.sql)
+- [Day 97: LC 3808 - Find Emotionally Consistent Users](./SQL/3808_find_emotionally_consistent_users.sql)
